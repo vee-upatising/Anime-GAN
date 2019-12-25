@@ -2,6 +2,7 @@
 Generating Anime Characters using General Adversarial Networks
 
 # Training
+![training](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/training.gif)
 
 # Results
 
