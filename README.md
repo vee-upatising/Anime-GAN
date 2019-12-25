@@ -3,6 +3,7 @@ Generating Anime Characters using Deep Convolutional Generative Adversarial Netw
 
 # Training
 ![training](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/train.gif)
+`Each frame represents 1000 epochs. The model was trained for 15000 epochs.`
 
 # Results
 
