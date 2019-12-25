@@ -30,6 +30,5 @@ Generating Anime Characters using General Adversarial Networks
 ![18](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/18.JPG)
 ![19](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/19.JPG)
 ![20](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/20.JPG)
-![21](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/21.JPG)
 ![22](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/22.JPG)
 ![8](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/8.JPG)
