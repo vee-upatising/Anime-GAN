@@ -1,5 +1,5 @@
 # Anime-GAN
-Generating Anime Characters using General Adversarial Networks
+Generating Anime Characters using Deep Convolutional Generative Adversarial Networks
 
 # Training
 ![training](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/training.gif)
