@@ -1,5 +1,5 @@
 # Anime-GAN
-Generating Anime Characters using Deep Convolutional Generative Adversarial Networks
+Generating Anime Characters using Deep Convolutional Generative Adversarial Networks using [dataset](https://www.kaggle.com/arnaud58/selfie2anime) from Kaggle
 
 # Training
 ![training](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/train.gif)
