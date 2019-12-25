@@ -2,7 +2,7 @@
 Generating Anime Characters using Deep Convolutional Generative Adversarial Networks
 
 # Training
-![training](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/training.gif)
+![training](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/train.gif)
 
 # Results
 
