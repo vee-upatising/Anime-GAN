@@ -2,8 +2,9 @@
 Generating Anime Characters using Deep Convolutional Generative Adversarial Networks using [dataset](https://www.kaggle.com/arnaud58/selfie2anime) from Kaggle
 
 # Training
+Each frame represents 1000 epochs. The model was trained for 15000 epochs.
 ![training](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/train.gif)
-`Each frame represents 1000 epochs. The model was trained for 15000 epochs.`
+
 
 # Results
 
