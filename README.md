@@ -1,13 +1,12 @@
 # Anime-GAN
 Generating Anime Characters using Deep Convolutional Generative Adversarial Networks using [dataset](https://www.kaggle.com/arnaud58/selfie2anime) from Kaggle
 
-# Random Walk Through Latent Space of Generator
-![walk](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/results/random%20walk.gif)
-
 # Training
 Each frame represents 100 epochs. The model was trained for 15000 epochs.
 ![training](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/train.gif)
 
+# Random Walk Through Latent Space of Generator
+![walk](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/results/random%20walk.gif)
 
 # Results
 
