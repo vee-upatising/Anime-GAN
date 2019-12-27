@@ -37,4 +37,3 @@ Each frame represents 100 epochs. The model was trained for 15000 epochs.
 ![20](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/results/20.JPG)
 ![22](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/results/22.JPG)
 ![8](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/results/8.JPG)
-![29](https://raw.githubusercontent.com/vee-upatising/Anime-GAN/master/results/29.JPG)
